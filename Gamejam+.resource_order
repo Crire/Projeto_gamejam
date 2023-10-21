@@ -14,5 +14,6 @@
     {"name":"Spr_background","order":1,"path":"sprites/Spr_background/Spr_background.yy",},
     {"name":"Sprite4","order":17,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Pimba","order":18,"path":"sprites/Pimba/Pimba.yy",},
   ],
 }

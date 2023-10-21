@@ -33,6 +33,7 @@
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Pimba","path":"sprites/Pimba/Pimba.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
