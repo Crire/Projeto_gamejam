@@ -12,6 +12,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_background","order":1,"path":"sprites/Spr_background/Spr_background.yy",},
-    {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Spr_novo","order":3,"path":"sprites/Spr_novo/Spr_novo.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
   ],
 }
