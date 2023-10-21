@@ -30,6 +30,7 @@
   "resources": [
     {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},},
     {"id":{"name":"Spr_novo","path":"sprites/Spr_novo/Spr_novo.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
