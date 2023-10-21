@@ -11,8 +11,11 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Spr_background","order":1,"path":"sprites/Spr_background/Spr_background.yy",},
+    {"name":"obj_caracter","order":1,"path":"objects/obj_caracter/obj_caracter.yy",},
+    {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Sprite4","order":17,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"sprite_wall","order":19,"path":"sprites/sprite_wall/sprite_wall.yy",},
+    {"name":"sprite_caracter","order":18,"path":"sprites/sprite_caracter/sprite_caracter.yy",},
   ],
 }
